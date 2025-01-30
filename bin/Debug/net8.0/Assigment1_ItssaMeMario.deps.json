@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Assigment1_ItssaMeMario/1.0.0": {
+        "runtime": {
+          "Assigment1_ItssaMeMario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assigment1_ItssaMeMario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

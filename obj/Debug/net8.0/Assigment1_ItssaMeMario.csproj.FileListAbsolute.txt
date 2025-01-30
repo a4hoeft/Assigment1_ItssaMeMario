@@ -1,0 +1,14 @@
+C:\Users\xanam\OneDrive\Documents\WCTC\.NET(INTO)\Assigment1_ItssaMeMario\bin\Debug\net8.0\Assigment1_ItssaMeMario.exe
+C:\Users\xanam\OneDrive\Documents\WCTC\.NET(INTO)\Assigment1_ItssaMeMario\bin\Debug\net8.0\Assigment1_ItssaMeMario.deps.json
+C:\Users\xanam\OneDrive\Documents\WCTC\.NET(INTO)\Assigment1_ItssaMeMario\bin\Debug\net8.0\Assigment1_ItssaMeMario.runtimeconfig.json
+C:\Users\xanam\OneDrive\Documents\WCTC\.NET(INTO)\Assigment1_ItssaMeMario\bin\Debug\net8.0\Assigment1_ItssaMeMario.dll
+C:\Users\xanam\OneDrive\Documents\WCTC\.NET(INTO)\Assigment1_ItssaMeMario\bin\Debug\net8.0\Assigment1_ItssaMeMario.pdb
+C:\Users\xanam\OneDrive\Documents\WCTC\.NET(INTO)\Assigment1_ItssaMeMario\obj\Debug\net8.0\Assigment1_ItssaMeMario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xanam\OneDrive\Documents\WCTC\.NET(INTO)\Assigment1_ItssaMeMario\obj\Debug\net8.0\Assigment1_ItssaMeMario.AssemblyInfoInputs.cache
+C:\Users\xanam\OneDrive\Documents\WCTC\.NET(INTO)\Assigment1_ItssaMeMario\obj\Debug\net8.0\Assigment1_ItssaMeMario.AssemblyInfo.cs
+C:\Users\xanam\OneDrive\Documents\WCTC\.NET(INTO)\Assigment1_ItssaMeMario\obj\Debug\net8.0\Assigment1_ItssaMeMario.csproj.CoreCompileInputs.cache
+C:\Users\xanam\OneDrive\Documents\WCTC\.NET(INTO)\Assigment1_ItssaMeMario\obj\Debug\net8.0\Assigment1_ItssaMeMario.dll
+C:\Users\xanam\OneDrive\Documents\WCTC\.NET(INTO)\Assigment1_ItssaMeMario\obj\Debug\net8.0\refint\Assigment1_ItssaMeMario.dll
+C:\Users\xanam\OneDrive\Documents\WCTC\.NET(INTO)\Assigment1_ItssaMeMario\obj\Debug\net8.0\Assigment1_ItssaMeMario.pdb
+C:\Users\xanam\OneDrive\Documents\WCTC\.NET(INTO)\Assigment1_ItssaMeMario\obj\Debug\net8.0\Assigment1_ItssaMeMario.genruntimeconfig.cache
+C:\Users\xanam\OneDrive\Documents\WCTC\.NET(INTO)\Assigment1_ItssaMeMario\obj\Debug\net8.0\ref\Assigment1_ItssaMeMario.dll
