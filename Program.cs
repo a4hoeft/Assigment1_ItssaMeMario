@@ -36,7 +36,6 @@ class Program
                
                 if (File.Exists("characters.txt"))
                 {
-                   StringSplitOptions options = StringSplitOptions.RemoveEmptyEntries;
                     string[] characters = File.ReadAllLines("characters.txt");
                     foreach (string character in characters)
                     {
