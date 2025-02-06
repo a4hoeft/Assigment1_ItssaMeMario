@@ -12,3 +12,4 @@ C:\Users\xanam\OneDrive\Documents\WCTC\.NET(INTO)\Assigment1_ItssaMeMario\obj\De
 C:\Users\xanam\OneDrive\Documents\WCTC\.NET(INTO)\Assigment1_ItssaMeMario\obj\Debug\net8.0\Assigment1_ItssaMeMario.pdb
 C:\Users\xanam\OneDrive\Documents\WCTC\.NET(INTO)\Assigment1_ItssaMeMario\obj\Debug\net8.0\Assigment1_ItssaMeMario.genruntimeconfig.cache
 C:\Users\xanam\OneDrive\Documents\WCTC\.NET(INTO)\Assigment1_ItssaMeMario\obj\Debug\net8.0\ref\Assigment1_ItssaMeMario.dll
+C:\Users\xanam\OneDrive\Documents\WCTC\.NET(INTO)\Assigment1_ItssaMeMario\obj\Debug\net8.0\Assigment1_ItssaMeMario.sourcelink.json

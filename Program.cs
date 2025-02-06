@@ -33,12 +33,17 @@ class Program
             else if (input == "2")
             {
                 // Display characters
+               
                 if (File.Exists("characters.txt"))
                 {
+                   StringSplitOptions options = StringSplitOptions.RemoveEmptyEntries;
                     string[] characters = File.ReadAllLines("characters.txt");
                     foreach (string character in characters)
                     {
-                        Console.WriteLine(character);
+                        string[] characterData = character.Split('|');
+                        Console.WriteLine($"Id: {characterData[0]}");
+                        Console.WriteLine($"Name: {characterData[1]}");
+                        Console.WriteLine($"Relationship to Mario: {characterData[2]}");
                         Console.WriteLine();
                     }
                 }
